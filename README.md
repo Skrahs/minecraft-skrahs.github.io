@@ -33,7 +33,7 @@ Here's what a `config.json` might look like:
 { "Nick": "admin2", "Skin": "https://example.com/skin3.png" }
 ]
 }
-}
+} ```
 
 Config Parameters
 
