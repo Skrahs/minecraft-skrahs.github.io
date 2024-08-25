@@ -61,12 +61,13 @@ La pagina dello staff visualizza i membri dello staff secondo le informazioni ne
 
 ------------------------
 
-4. Modificare lo Stile (style.css)
+4. Edit the Style (style.css)
 
-Il file CSS si occupa della formattazione del sito. Puoi personalizzare i colori e i layout modificando le sezioni seguenti :
+The CSS file takes care of the formatting of the site. You can customize the colors and layout by editing the following sections:
 
-Colore del Tema: Modifica la variabile --theme-color per cambiare il colore del tema.
-Stili dei Bottoni e Titoli: Regola le proprietà CSS per adattare il design alle tue preferenze.
+Theme Color: Edit the --theme-color variable to change the theme color.
+Button Styles and Titles: Adjust CSS properties to adapt the design to your preferences.
+
 
 5. JavaScript (script.js)
 
