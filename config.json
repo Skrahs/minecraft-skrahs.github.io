@@ -1,0 +1,32 @@
+{
+    "site": {
+        "title": "Minecraft Server",
+        "logo": "images/logo.png",
+        "backgroundImage": "images/background.webp",
+        "themeColor": "#ff6f61"
+    },
+    "links": {
+        "forum": "#",
+        "store": "#",
+        "discord": "#",
+        "telegram": "#",
+        "skrahs": "https://https://github.com/Skrahs"
+    },
+    "staffPage": {
+        "title": "Staff",
+        "ranks": {
+            "Owner": [
+                { "Nick": "Skrahs", "color": "#ff0000" },
+                { "Nick": "Owner", "color": "#ff0000" }
+            ],
+            "Admin": [
+                { "Nick": "Admin", "color": "#00ff00" },
+                { "Nick": "Admin2", "color": "#00ff00" }
+            ],
+            "Mod": [
+                { "Nick": "Mod", "color": "#0000ff" },
+                { "Nick": "Mod2", "color": "#0000ff" }
+            ]
+        }
+    }
+}
